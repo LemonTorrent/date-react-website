@@ -1,16 +1,20 @@
 {
   "files": {
-    "main.css": "/date-react-website/static/css/main.3a19ba85.css",
-    "main.js": "/date-react-website/static/js/main.fff05fef.js",
+    "main.css": "/date-react-website/static/css/main.b07f67a7.css",
+    "main.js": "/date-react-website/static/js/main.b956d128.js",
     "static/js/787.2aac0b7c.chunk.js": "/date-react-website/static/js/787.2aac0b7c.chunk.js",
+    "static/media/primeicons.svg": "/date-react-website/static/media/primeicons.c6e2053303524e39530c.svg",
+    "static/media/primeicons.eot": "/date-react-website/static/media/primeicons.7fc4d8e224d1ff1b9c62.eot",
+    "static/media/primeicons.woff": "/date-react-website/static/media/primeicons.449aa8c65cdc5c2a8686.woff",
+    "static/media/primeicons.ttf": "/date-react-website/static/media/primeicons.91bacab1f083f2795272.ttf",
     "static/media/logo.svg": "/date-react-website/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
     "index.html": "/date-react-website/index.html",
-    "main.3a19ba85.css.map": "/date-react-website/static/css/main.3a19ba85.css.map",
-    "main.fff05fef.js.map": "/date-react-website/static/js/main.fff05fef.js.map",
+    "main.b07f67a7.css.map": "/date-react-website/static/css/main.b07f67a7.css.map",
+    "main.b956d128.js.map": "/date-react-website/static/js/main.b956d128.js.map",
     "787.2aac0b7c.chunk.js.map": "/date-react-website/static/js/787.2aac0b7c.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.3a19ba85.css",
-    "static/js/main.fff05fef.js"
+    "static/css/main.b07f67a7.css",
+    "static/js/main.b956d128.js"
   ]
 }
