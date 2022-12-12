@@ -3,13 +3,15 @@ import ReactDOM from 'react-dom/client';
 import './index.css';
 import App from './App';
 import Checklist from './CheckList';
+import Menu from './Menu';
 import reportWebVitals from './reportWebVitals';
 
 const root = ReactDOM.createRoot(document.getElementById('root'));
 root.render(
   <React.StrictMode>
+    <Menu />
     <Checklist />
-    <App />
+
   </React.StrictMode>
 );
 
